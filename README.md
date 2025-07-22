@@ -37,7 +37,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/anitagasteiner/anitagasteiner/output/snake.svg" alt="Snake animation" />
-
-###
