@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I've finished my front-end education in spring 2025 and I'm currently attending a back-end education.<br>🎯 Goals: finishing my back-end education and starting to work as a developer.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I've finished my front-end education in spring 2025 and I'm currently attending a back-end education and experimenting with React.<br>🎯 Goals: finishing my back-end education and starting to work as a developer.</p>
 
 ###
 
